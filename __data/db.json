@@ -1,0 +1,117 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "a title",
+      "views": 100
+    },
+    {
+      "id": "2",
+      "title": "another title",
+      "views": 200
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "text": "a comment about post 1",
+      "postId": "1"
+    },
+    {
+      "id": "2",
+      "text": "another comment about post 1",
+      "postId": "1"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employee": [
+    {
+      "name": "John Doe",
+      "age": 30,
+      "gender": "Male",
+      "jobTitle": "Software Engineer",
+      "department": "Engineering",
+      "contact": {
+        "email": "john.doe@example.com",
+        "phone": "123-456-7890",
+        "address": {
+          "street": "123 Main Street",
+          "city": "Anytown",
+          "state": "CA",
+          "zipCode": "12345",
+          "country": "USA"
+        }
+      },
+      "hireDate": "2020-01-15",
+      "salary": 80000,
+      "skills": [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "SQL"
+      ],
+      "education": {
+        "degree": "Bachelor's in Computer Science",
+        "institution": "University of Anytown",
+        "graduationYear": 2018
+      },
+      "projects": [
+        {
+          "name": "Project A",
+          "description": "Developed a web application using React and Node.js",
+          "duration": "6 months"
+        },
+        {
+          "name": "Project B",
+          "description": "Implemented database optimizations for improved performance",
+          "duration": "3 months"
+        }
+      ],
+      "certifications": [
+        "AWS Certified Solutions Architect - Associate",
+        "Microsoft Certified: Azure Developer Associate"
+      ],
+      "id": "1354"
+    }
+  ],
+  "notes": [
+    {
+      "id": "92b3",
+      "txtTitle": "Can you tell me about yourself?",
+      "txtDetail": "First of all thank you very much for inviting me here. you can call me noel. I would describe my self as hardworking employee and somebody that has already the skills and quality to match the job description. I believe i am high achiever and I always have receive a positive feedback from my seniors and my clients and If you hire me I will be the type of worker who will always go above and  beyond what is expected in my work I will always embrace change positively and ",
+      "category": "letter"
+    },
+    {
+      "id": "dbd6",
+      "txtTitle": "Why do you want this job?",
+      "txtDetail": "I want this job because im passionate about this type of work. I spent a lot of time at work and I want that time to spent doing something i love. I also do research about your company",
+      "category": "letter"
+    },
+    {
+      "id": "e3f1",
+      "txtTitle": "What is your greatest strength?",
+      "txtDetail": "My greatest strength includes my fast pace of work, high standard, creativity, flexibility and how i take ownership of challenges and problems. These strength i believe will enable me to add real value to your team.",
+      "category": "letter"
+    },
+    {
+      "id": "8bb1",
+      "txtTitle": "What is your biggest weakness",
+      "txtDetail": "My biggest weakness is im not good at delegating tasks. I like to do things myself but i understand this is not conducive to getting things done quickly. I am mindful of my weakness, and taking action to improve.",
+      "category": "letter"
+    },
+    {
+      "id": "f1b6",
+      "txtTitle": "What is your greatest achivement?",
+      "txtDetail": "My greatest achievement was in my last position when i helped my teammate to launch a new site for a new customer. We achieve this success by working together as a team, utilizing each other's strength",
+      "category": "letter"
+    },
+    {
+      "id": "a6ce",
+      "txtTitle": "what motivates you?",
+      "txtDetail": "i am motivated by being fit and healthy, doing a great job to my employer because this gives me satisfaction, continuous improvement and growth, and support my family",
+      "category": "diary"
+    }
+  ]
+}
