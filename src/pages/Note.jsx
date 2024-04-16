@@ -8,7 +8,7 @@ export default function NotePage() {
     const [notes,setNotes]=useState([])
 
     const { handleShowData,render, flag, isUpdate} = NoteForm()
-    const url = "http://192.168.1.50:4000/notes";
+    const url = "http://localhost:4000/notes";
 
     useEffect(() => {
         fetch(url)
