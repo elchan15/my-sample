@@ -22,6 +22,7 @@ export default function NoteForm() {
     txtTitle: "",
     txtDetail: "",
   });
+  const url = "http://localhost:4000/notes";
 
   const { txtTitle, txtDetail } = state;
 
@@ -51,7 +52,7 @@ export default function NoteForm() {
     }
 
     if (txtTitle && txtDetail) {
-      fetch("http://192.168.1.50:4000/notes", {
+      fetch(url, {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
@@ -68,7 +69,7 @@ export default function NoteForm() {
 
   const handleShowData = (id) => {
     if (id) {
-      fetch("http://localhost:4000/notes/" + id)
+      fetch(url + "/" + id)
         .then((res) => res.json())
         .then((data) => {
           setIsUpdate(true);
@@ -82,7 +83,7 @@ export default function NoteForm() {
 
   const handleUpdateData = (id) => {
     if (id) {
-      fetch("http://localhost:4000/notes/" + id, {
+      fetch(url + "/" + id, {
         method: "PATCH",
         headers: {
           "Content-Type": "application/json",

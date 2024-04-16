@@ -35,8 +35,8 @@ export default function ListPage() {
       <Grid container>
 
         {showData.map((item, index) => (
-          <Grid item xs={6} md={6} key='index'>
-            <ListAccordion {...item} />
+          <Grid item xs={6} md={6} key={index}>
+            <ListAccordion key={index} {...item} />
           </Grid>
         ))}
       </Grid >
