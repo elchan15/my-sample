@@ -58,7 +58,7 @@ export default function NoteForm() {
           "Content-Type": "application/json",
         },
         body: JSON.stringify({ txtTitle, txtDetail, category }),
-      }).catch((err) => console.log(err));
+      }).catch((err) => console.log("Error POST :: ",err));
       setFlag(!flag);
       setState({
         txtDetail: "",
