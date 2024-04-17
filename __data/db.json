@@ -110,8 +110,74 @@
     {
       "id": "a6ce",
       "txtTitle": "what motivates you?",
-      "txtDetail": "i am motivated by being fit and healthy, doing a great job to my employer because this gives me satisfaction, continuous improvement and growth, and support my family",
+      "txtDetail": "i am motivated by being fit and healthy, doing a great job to my employer because this gives me satisfaction, continuous improvement and growth, and supporting my family. I can only support my family if I succeed at work and receive a good salary.",
       "category": "diary"
+    },
+    {
+      "id": "6798",
+      "txtTitle": "How would you deal with a conflict with a co-worker?",
+      "txtDetail": "I would take responsibility of the conflict. I would access my words and actions to ensure that Im wasnt causing the conflict and then sit down with my coworker to establish their views before finding an amicable way forward that resolve this conflict quickly and it helps the team progress.",
+      "category": "diary"
+    },
+    {
+      "id": "9cb8",
+      "txtTitle": "Do you have any questions?",
+      "txtDetail": "Are there any opportunities for training and, eventually advancement in the position? Who would I be responsible to in this position?",
+      "category": "diary"
+    },
+    {
+      "id": "312d",
+      "txtTitle": "Where do you see yourself in 5 years?",
+      "txtDetail": "In 5 years, I plan to be still working for your company. I would either be in this role with extra responsibility, or have earned a promotion. In 5 years, I would be an expert in my area of specialization and be someone that helps train new team members when they join the company. ",
+      "category": "diary"
+    },
+    {
+      "id": "b2fd",
+      "txtTitle": "What are you looking for in your next job?",
+      "txtDetail": "I am looking for a positive workplace culture, an inclusive workplace environment where there is opportunity for everyone to put forward ideas, and ongoing training to help me develop professionally.",
+      "category": "diary"
+    },
+    {
+      "id": "3702",
+      "txtTitle": "Why do you leave your previous employer?",
+      "txtDetail": "My previous employer has been fantastic to work but I am now seeking a new role",
+      "category": "magazine"
+    },
+    {
+      "id": "d5d7",
+      "txtTitle": "What do you do in your free time?",
+      "txtDetail": "In my free time, I play team sports",
+      "category": "magazine"
+    },
+    {
+      "id": "9c74",
+      "txtTitle": "why should we hire you?",
+      "txtDetail": "You should hire me because my skills, qualities and experience match with the job description. You should hire me because I am high achiever, adopt a selfless approach to task completion, take ownership of challenges and always seek to improve.",
+      "category": "letter"
+    },
+    {
+      "id": "dd83",
+      "txtTitle": "What would you do if you started work for this company and soon realized the job wasn't for you?",
+      "txtDetail": "I dont believe this would happen because I studied the job description carefully, and research your company history. I am confident this job is perfect for what i am seeking from a position, and I plan a long-term career with your company.",
+      "category": "letter"
+    },
+    {
+      "id": "a163",
+      "txtTitle": "How do you prioritize your work?",
+      "txtDetail": " I prioritize my work by creating a list of daily tasks I am responsible for. ",
+      "category": "letter"
+    },
+    {
+      "id": "a537",
+      "txtTitle": "How do you respond to stress and pressure?",
+      "txtDetail": "I respond to stress and pressure by remaining calm and ensuring I focus on the task at hand. I prioritize my work against company objectives, block out distractions and set myself goals that are specific, measurable and timely. Stress is an emotion I have control over and I never allow it impact negatively on my work?",
+      "category": "diary"
+    },
+    {
+      "id": "5f97",
+      "txtTitle": "Tell me about a time you made a mistake",
+      "txtDetail": "I was given a task to complete when I started my last job, but in my hastiness to get it finished quickly and impress my supervisor, I failed to listen to the instructions. This was a foolish mistake. As soon I realized, I informed my supervisor, apologize, completed the task again, and put steps in place to ensure the same situation have never happen again.",
+      "category": "magazine"
     }
   ]
 }
