@@ -178,6 +178,24 @@
       "txtTitle": "Tell me about a time you made a mistake",
       "txtDetail": "I was given a task to complete when I started my last job, but in my hastiness to get it finished quickly and impress my supervisor, I failed to listen to the instructions. This was a foolish mistake. As soon I realized, I informed my supervisor, apologize, completed the task again, and put steps in place to ensure the same situation have never happen again.",
       "category": "magazine"
+    },
+    {
+      "id": "ea2b",
+      "txtTitle": "What kind of people do you find it most difficult to work with? Why? ",
+      "txtDetail": "In my professional experience, I've found that the most challenging situations arise when working with individuals who have a very different communication style from my own. For instance, I sometimes find it challenging to collaborate with those who prefer not to share regular updates about their progress, as I value open communication and transparency. However, I view these challenges as opportunities to develop my adaptability and to find effective ways to bridge communication gaps. I believe there is always room to learn from each other and improve our teamwork, regardless of differing work styles.",
+      "category": "newspaper"
+    },
+    {
+      "id": "5fda",
+      "txtTitle": "What do you like to do best and least? ",
+      "txtDetail": "What I enjoy most in my professional life is the opportunity to tackle challenging problems and come up with creative solutions. I thrive in environments where I can collaborate with a team, share ideas, and continuously learn new skills. On the other hand, the aspect I find least enjoyable is when there is a lack of clear communication within a team, as it can hinder productivity and collaboration. However, I see this as an opportunity to work on improving communication channels and fostering a more collaborative team environment.",
+      "category": "letter"
+    },
+    {
+      "id": "1edb",
+      "txtTitle": "What do you wish to gain from this company?",
+      "txtDetail": "I am eager to join a company where I can contribute my skills and experiences while also embracing the opportunity to grow professionally. I see this as a place where I can develop and take on new challenges, all while contributing to the team and helping the company achieve its goals.",
+      "category": "letter"
     }
   ]
 }
